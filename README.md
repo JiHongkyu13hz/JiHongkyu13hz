@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/JiHongkyu13hz?pet-id=644681471440706520"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/JiHongkyu13hz"
+  width="600"
+  height="300"
+/>
 </a>
   
